@@ -297,6 +297,11 @@ h6 {
   padding-bottom: 50px;
 }
 
+.contact-info {
+  display: flex;
+  justify-content: center;
+}
+
 #contact-form {
   display: block;
   max-width: 600px;
